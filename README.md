@@ -23,10 +23,12 @@ A curated list of research papers in 3D visual grounding.
 1. Achlioptas, Panos, et al. **ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes**. ECCV 2020, <font color=Red>**Oral**</font>. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf) [[Code]](https://github.com/referit3d/referit3d) [[Website]](https://referit3d.github.io/)
 1. Chen, Dave Zhenyu, et al. **ScanRefer 3D Object Localization in RGB-D Scans Using Natural Language**. ECCV 2020. [[Paper]](https://arxiv.org/abs/1912.08830) [[Code]](https://github.com/daveredrum/ScanRefer) [[Website]](https://daveredrum.github.io/ScanRefer/)
 
+### AAAI 2021
+1. Huang, Pin-Hao, et al. **Text-guided graph neural networks for referring 3d instance segmentation**. AAAI 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16253) [[Code]](https://github.com/hanhung/TGNN)
+
 ### CVPR 2021
 1. Feng, Mingtao, et al. **Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud**. CVPR 2021. [[Paper]](https://arxiv.org/abs/2103.16381) [[Code]](https://github.com/PNXD/FFL-3DOG)
 1. Liu, Haolin, et al. **Refer-It-in-RGBD: A Bottom-Up Approach for 3D Visual Grounding in RGBD Images**. CVPR 2021. [[Paper]](https://arxiv.org/abs/2103.07894) [[Code]](https://github.com/UncleMEDM/Refer-it-in-RGBD) [[Website]](https://unclemedm.github.io/Refer-it-in-RGBD/)
-
 
 ### ICCV 2021
 1. Yang, Zhengyuan, et al. **SAT: 2D Semantics Assisted Training for 3D Visual Grounding**. ICCV 2021, <font color=Red>**Oral**</font>. [[Paper]](https://arxiv.org/abs/2105.11450) [[Code]](https://github.com/zyang-ur/SAT)
@@ -35,9 +37,6 @@ A curated list of research papers in 3D visual grounding.
 
 ### ACM-MM 2021
 1. He, Dailan, et al. **TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding**. ACM-MM 2021. [[Paper]](https://arxiv.org/abs/2108.02388)
-
-### AAAI 2021
-1. Huang, Pin-Hao, et al. **Text-guided graph neural networks for referring 3d instance segmentation**. AAAI 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16253) [[Code]](https://github.com/hanhung/TGNN)
 
 ### CVPR 2022
 1. Huang, Shijia, et al. **Multi-View Transformer for 3D Visual Grounding**. CVPR 2022. [[Paper]](https://arxiv.org/abs/2204.02174) [[Code]](https://github.com/sega-hsj/MVT-3DVG)
