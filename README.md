@@ -36,6 +36,7 @@ A curated list of research papers in 3D visual grounding.
 1. Zhao, Lichen, et al. **3DVG-Transformer: Relation modeling for visual grounding on point clouds**. ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf)
 
     **Personal Notes**: 
+    - The novelty of this paper comes from the coordinate-guied contextual aggregation module.
 
 ### ACM-MM 2021
 1. He, Dailan, et al. **TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding**. ACM-MM 2021. [[Paper]](https://arxiv.org/abs/2108.02388)
@@ -43,7 +44,9 @@ A curated list of research papers in 3D visual grounding.
 ### CVPR 2022
 1. Huang, Shijia, et al. **Multi-View Transformer for 3D Visual Grounding**. CVPR 2022. [[Paper]](https://arxiv.org/abs/2204.02174) [[Code]](https://github.com/sega-hsj/MVT-3DVG)
 
-    **Personal Notes**: Rotating the center xyz of objects to provide view-related positional information before going through a Tranformer decoder. Strong results on Nr3D and Sr3D, good reuslts on ScanRefer.
+    **Personal Notes**: 
+    - Rotating the center xyz of objects to provide view-related positional information before going through a Tranformer decoder. 
+    - Strong results on Nr3D and Sr3D, good reuslts on ScanRefer.
 
 ## Contacts
 jhj20 at mails dot tsinghua dot edu dot cn
