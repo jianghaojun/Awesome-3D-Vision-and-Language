@@ -40,6 +40,8 @@ A curated list of research papers in 3D visual grounding.
 
 ### CVPR 2022
 1. Huang, Shijia, et al. **Multi-View Transformer for 3D Visual Grounding**. CVPR 2022. [[Paper]](https://arxiv.org/abs/2204.02174) [[Code]](https://github.com/sega-hsj/MVT-3DVG)
+    
+    **Personal Notes**: Rotating the center xyz of objects to provide view-related positional information before going through a Tranformer decoder. Strong results on Nr3D and Sr3D, good reuslts on ScanRefer.
 
 ## Contacts
 jhj20 at mails dot tsinghua dot edu dot cn
