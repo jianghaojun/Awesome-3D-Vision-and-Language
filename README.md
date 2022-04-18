@@ -6,8 +6,9 @@ A curated list of research papers in 3D visual grounding.
 
 ## Table of Contents
 
-- [Datasets](#datasets)
-- [Paper Roadmap (Chronological Order)](#paper-roadmap-chronological-order)
+- [3D-VG Datasets](#datasets)
+- [3D-VG Paper Roadmap (Chronological Order)](#paper-roadmap-chronological-order)
+- [Point Cloud Papers](#point-cloud-papers)
 - [Contacts](#contacts)
 
 
@@ -47,6 +48,9 @@ A curated list of research papers in 3D visual grounding.
     **Personal Notes**: 
     - Rotating the center xyz of objects to provide view-related positional information before going through a Tranformer decoder. 
     - Strong results on Nr3D and Sr3D, good reuslts on ScanRefer.
+    
+## Point Cloud Papers
+
 
 ## Contacts
 jhj20 at mails dot tsinghua dot edu dot cn
