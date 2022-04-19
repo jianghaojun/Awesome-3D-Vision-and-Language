@@ -49,15 +49,14 @@ A curated list of research papers in 3D visual grounding.
     - Rotating the center xyz of objects to provide view-related positional information before going through a Tranformer decoder. 
     - Strong results on Nr3D and Sr3D, good reuslts on ScanRefer.
 
-2. Luo, Junyu, et al. **3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**. CVPR 2022, <font color=Red>**Oral**</font>. [[Paper]](https://arxiv.org/abs/2204.06272)
+2. Luo, Junyu, et al. **3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**. CVPR 2022, <font color=Red>**Oral**</font>. [[Paper]](https://arxiv.org/abs/2204.06272) [[Code]](https://github.com/fjhzhixi/3D-SPS)
     
     **Personal Notes**: 
     - First single stage work in 3D Visual Grounding !!!
     - The general idea is similar to the iterative shrinking work in 2D Visual Grounding, but the design is more elegant.
 
 3. Cai, Daigang, et al. **3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds**. CVPR 2022.
-
-    
+  
 ## Point Cloud Papers
 
 
