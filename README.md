@@ -33,6 +33,11 @@ A curated list of research papers in 3D visual grounding.
 
 ### ICCV 2021
 1. Yang, Zhengyuan, et al. **SAT: 2D Semantics Assisted Training for 3D Visual Grounding**. ICCV 2021, <font color=Red>**Oral**</font>. [[Paper]](https://arxiv.org/abs/2105.11450) [[Code]](https://github.com/zyang-ur/SAT)
+
+    **Personal Notes**: 
+    - Use corresponding 2D image data(ROI feature, label, bbox coordinates and camera pose) to assist 3D grounding.
+    - Very solid experiments.
+
 2. Yuan, Zhihao, et al. **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring** . ICCV 2021. [[Paper]](https://arxiv.org/abs/2103.01128) [[Code]](https://github.com/CurryYuan/InstanceRefer)
 3. Zhao, Lichen, et al. **3DVG-Transformer: Relation modeling for visual grounding on point clouds**. ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf) [[Code]](https://github.com/zlccccc/3DVG-Transformer)
 
