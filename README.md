@@ -8,12 +8,11 @@ A curated list of research papers in 3D visual grounding.
 
 - [3D-VG Datasets](#datasets)
 - [3D-VG Paper Roadmap (Chronological Order)](#paper-roadmap-chronological-order)
+- [3D-VG Workshops](#workshops)
 - [Point Cloud Papers](#point-cloud-papers)
 - [Contacts](#contacts)
 
-
 <!-- 1. First Author. **Paper Name**. Conf. [[Paper]]() [[Code]]() [[Website]]() -->
-
 
 ## Datasets
 1. **ReferIt3D**(**Nr3D**, **Sr3D/Sr3D+**): Achlioptas, Panos, et al. **ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes**. ECCV 2020, <font color=Red>**Oral**</font>. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf) [[Code]](https://github.com/referit3d/referit3d) [[Website]](https://referit3d.github.io/) [[Leaderboard]](https://referit3d.github.io/benchmarks.html)
@@ -61,6 +60,10 @@ A curated list of research papers in 3D visual grounding.
     - The general idea is similar to the iterative shrinking work in 2D Visual Grounding, but the design is more elegant.
 
 3. Cai, Daigang, et al. **3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds**. CVPR 2022.
+
+
+## Workshops
+1. CVPR 2021 1st Workshop on Language for 3D Scenes. [[Website]](https://language3dscenes.github.io/)
   
 ## Point Cloud Papers
 
