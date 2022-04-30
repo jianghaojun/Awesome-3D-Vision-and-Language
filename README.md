@@ -1,8 +1,8 @@
-# Awesome-3D-Visual-Grounding
+# Awesome-3D-Visual-Grounding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jianghaojun/Awesome-3D-Visual-Grounding)
 
 A curated list of research papers in 3D visual grounding. 
 
-**Update on 2022/04/15: Create this repository for fun.**
+**Update on 2022/04/15: Create this repository.**
 
 ## Table of Contents
 
