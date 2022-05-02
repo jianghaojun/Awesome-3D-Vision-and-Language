@@ -16,6 +16,11 @@ A curated list of research papers in 3D visual grounding.
 
 ## Datasets
 1. **ReferIt3D**(**Nr3D**, **Sr3D/Sr3D+**): Achlioptas, Panos, et al. **ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes**. ECCV 2020, <font color=Red>**Oral**</font>. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf) [[Code]](https://github.com/referit3d/referit3d) [[Website]](https://referit3d.github.io/) [[Leaderboard]](https://referit3d.github.io/benchmarks.html)
+
+    **Dataset Statistics**: 
+    - Natural Reference in 3D (Nr3D)
+    - Spatial Reference in 3D (Sr3D)
+ 
 2. **ScanRefer**: Chen, Dave Zhenyu, et al. **ScanRefer 3D Object Localization in RGB-D Scans Using Natural Language**. ECCV 2020. [[Paper]](https://arxiv.org/abs/1912.08830) [[Code]](https://github.com/daveredrum/ScanRefer) [[Website]](https://daveredrum.github.io/ScanRefer/) [[Leaderboard]](http://kaldir.vc.in.tum.de/scanrefer_benchmark/)
 
     **Dataset Statistics**: 
