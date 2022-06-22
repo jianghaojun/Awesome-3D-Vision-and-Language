@@ -82,10 +82,10 @@ A curated list of research papers in 3D visual grounding. (Contact: jhj20 at mai
 ## 3D Question Answering
 ### 3D QA Paper Roadmap (Chronological Order)
 #### CVPR 2022
-1. Azuma, Daichi, et al. **ScanQA: 3D Question Answering for Spatial Scene Understanding**. CVPR 2020. [[Paper]](https://arxiv.org/pdf/2112.10482.pdf) [[Code]](https://github.com/ATR-DBI/ScanQA)
+1. Azuma, Daichi, et al. **ScanQA: 3D Question Answering for Spatial Scene Understanding**. CVPR 2022. [[Paper]](https://arxiv.org/pdf/2112.10482.pdf) [[Code]](https://github.com/ATR-DBI/ScanQA)
 
 ### 3D QA Datasets
-1. **ScanQA**: Azuma, Daichi, et al. **ScanQA: 3D Question Answering for Spatial Scene Understanding**. CVPR 2020. [[Paper]](https://arxiv.org/pdf/2112.10482.pdf) [[Data Preparation]](https://github.com/ATR-DBI/ScanQA/blob/main/docs/dataset.md)
+1. **ScanQA**: Azuma, Daichi, et al. **ScanQA: 3D Question Answering for Spatial Scene Understanding**. CVPR 2022. [[Paper]](https://arxiv.org/pdf/2112.10482.pdf) [[Data Preparation]](https://github.com/ATR-DBI/ScanQA/blob/main/docs/dataset.md)
 
 ## 3D Dense Caption
 Pending...
